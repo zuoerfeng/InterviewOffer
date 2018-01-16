@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1516071477 source:c:\users\lz\desktop\interviewoffer\assignmentoperator\main.cpp
+	<cstring>
+	<cstdio>
+	<iostream>
+	<string>
+
+1516083963 source:c:\users\lz\desktop\interviewoffer\assignmentoperator\test.cpp
+	<iostream>
+	"AssignmentOperator.h"
+
+1516084323 c:\users\lz\desktop\interviewoffer\assignmentoperator\assignmentoperator.h
+	<cstdio>
+	<cstring>
+	<iostream>
+	<string>
+
