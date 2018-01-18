@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1516258887 source:c:\users\lz\desktop\interviewoffer\singleton\test_2.cpp
+	<iostream>
+	<thread>
+
+1516259886 source:c:\users\lz\desktop\interviewoffer\singleton\test_3.cpp
+	<iostream>
+	<thread>
+	<vector>
+
+1516261700 source:c:\users\lz\desktop\interviewoffer\singleton\test_4.cpp
+	<iostream>
+	<thread>
+	<vector>
+
