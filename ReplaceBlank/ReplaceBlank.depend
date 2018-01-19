@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1516350303 source:c:\users\lz\desktop\interviewoffer\replaceblank\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+
