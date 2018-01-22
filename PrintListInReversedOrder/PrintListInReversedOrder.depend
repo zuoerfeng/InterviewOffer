@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1516590951 source:c:\users\lz\desktop\interviewoffer\printlistinreversedorder\list.cpp
+	"list.h"
+	<cstdio>
+	<cstdlib>
+
+1516590989 c:\users\lz\desktop\interviewoffer\printlistinreversedorder\list.h
+
+1516595724 source:c:\users\lz\desktop\interviewoffer\printlistinreversedorder\main.cpp
+	<iostream>
+	<stack>
+	"List.h"
+	<cstdio>
+
