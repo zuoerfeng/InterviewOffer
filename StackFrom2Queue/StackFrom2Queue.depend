@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1516783311 source:c:\users\lz\desktop\interviewoffer\stackfrom2queue\main.cpp
+	<iostream>
+	"StackFrom2Queue.h"
+
+1516783340 c:\users\lz\desktop\interviewoffer\stackfrom2queue\stackfrom2queue.h
+	<iostream>
+	<queue>
+	<exception>
+	<stdexcept>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1516778564 source:c:\users\lz\desktop\interviewoffer\queuewithtwostacks\main.cpp
+	<iostream>
+	<cstdio>
+	"Queue.h"
+
+1516778844 c:\users\lz\desktop\interviewoffer\queuewithtwostacks\queue.h
+	<stack>
+	<exception>
+	<stdexcept>
+
+1516776732 source:c:\users\lz\desktop\interviewoffer\queuewithtwostacks\queue.cpp
+
