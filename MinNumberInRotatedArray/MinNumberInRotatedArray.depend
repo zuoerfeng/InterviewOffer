@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1516864305 source:c:\users\lz\desktop\interviewoffer\minnumberinrotatedarray\main.cpp
+	<iostream>
+	<cstdio>
+	<stdexcept>
+
