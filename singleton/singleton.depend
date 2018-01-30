@@ -1,7 +1,9 @@
 # depslib dependency file v1.0
-1516258887 source:c:\users\lz\desktop\interviewoffer\singleton\test_2.cpp
+1516259706 source:c:\users\lz\desktop\interviewoffer\singleton\test_2.cpp
 	<iostream>
+	<mutex>
 	<thread>
+	<vector>
 
 1516259886 source:c:\users\lz\desktop\interviewoffer\singleton\test_3.cpp
 	<iostream>
@@ -12,4 +14,7 @@
 	<iostream>
 	<thread>
 	<vector>
+
+1517214303 source:c:\users\lz\desktop\interviewoffer\singleton\test_1.cpp
+	<iostream>
 
