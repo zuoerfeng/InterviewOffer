@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1517384699 source:c:\users\lz\desktop\interviewoffer\power\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+
