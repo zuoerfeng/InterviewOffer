@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1517795993 source:c:\users\lz\desktop\interviewoffer\deletenodeinlist\list.cpp
+	<cstdio>
+	<cstdlib>
+	"List.h"
+
+1517795926 c:\users\lz\desktop\interviewoffer\deletenodeinlist\list.h
+
