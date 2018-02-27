@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1517795993 source:c:\users\lz\desktop\interviewoffer\mergesortedlists\list.cpp
+	<cstdio>
+	<cstdlib>
+	"List.h"
+
+1517795926 c:\users\lz\desktop\interviewoffer\mergesortedlists\list.h
+
+1519702443 source:c:\users\lz\desktop\interviewoffer\mergesortedlists\main.cpp
+	<iostream>
+	<cstdio>
+	"List.h"
+
