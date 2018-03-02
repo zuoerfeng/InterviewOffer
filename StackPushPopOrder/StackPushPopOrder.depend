@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519960263 source:c:\users\lz\desktop\interviewoffer\stackpushpoporder\main.cpp
+	<iostream>
+	<cstdio>
+	<stack>
+
