@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1519957792 source:c:\users\lz\desktop\interviewoffer\mininstack\main.cpp
+	<iostream>
+	"StackWithMin.h"
+
+1519957932 c:\users\lz\desktop\interviewoffer\mininstack\stackwithmin.h
+	<cstdio>
+	<stack>
+	<assert.h>
+
