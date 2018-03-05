@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1519874178 source:c:\users\lz\desktop\interviewoffer\pathintree\binarytree.cpp
+	<cstdio>
+	"BinaryTree.h"
+
+1519873450 c:\users\lz\desktop\interviewoffer\pathintree\binarytree.h
+
+1520218956 source:c:\users\lz\desktop\interviewoffer\pathintree\main.cpp
+	<iostream>
+	<vector>
+	<cstdio>
+	"BinaryTree.h"
+
