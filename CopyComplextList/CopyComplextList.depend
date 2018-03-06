@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1520304351 source:c:\users\lz\desktop\interviewoffer\copycomplextlist\complexlist.cpp
+	<iostream>
+	<cstdio>
+	"ComplexList.h"
+
+1520304264 c:\users\lz\desktop\interviewoffer\copycomplextlist\complexlist.h
+
+1520305580 source:c:\users\lz\desktop\interviewoffer\copycomplextlist\main.cpp
+	<iostream>
+	<cstdio>
+	"ComplexList.h"
+
