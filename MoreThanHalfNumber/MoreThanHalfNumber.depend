@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1520393983 source:c:\users\lz\desktop\interviewoffer\morethanhalfnumber\array.cpp
+	<cstdio>
+	<cstdlib>
+	"Array.h"
+	<stdexcept>
+
+1317367558 c:\users\lz\desktop\interviewoffer\morethanhalfnumber\array.h
+
